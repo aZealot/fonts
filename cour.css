@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Pixel Courier';
+  src: url('https://github.com/aZealot/fonts/blob/main/cour.ttf');
+}
+@font-face {
+  font-family: 'Pixel Courier';
+  src: url('https://github.com/aZealot/fonts/blob/main/courb.ttf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'Pixel Courier';
+  src: url('https://github.com/aZealot/fonts/blob/main/couri.ttf');
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Pixel Courier';
+  src: url('https://github.com/aZealot/fonts/blob/main/courbi.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+u {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-skip-ink: none;
+}
